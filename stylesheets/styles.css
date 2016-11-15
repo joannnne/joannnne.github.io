@@ -5,8 +5,8 @@ body {
   font:12px Menlo;
   color:#FAFAFA;
   background-color: #000000;
-  font-weight:300;
-  text-align: center;
+  font-weight:200;
+  text-align: left;
 }
 
 h1, h2, h3, h4, h5, h6 {
